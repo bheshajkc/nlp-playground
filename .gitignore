@@ -69,5 +69,3 @@ junit-*.xml
 # Ignore all files in data but keep folder structure
 data/*
 !data/.gitkeep
-!data/raw/
-!data/processed/
